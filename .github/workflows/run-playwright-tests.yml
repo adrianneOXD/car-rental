@@ -16,4 +16,4 @@ jobs:
 
 
       - name: run test
-        run: npx playwright test
+        run: mvn test
